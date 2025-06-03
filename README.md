@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sakshi-kushwah219  
+- 👋 Hi, I’m Sakshi kushwah
 - 👀 I’m interested in data analysis and building interactive dashboards using Power BI and Tableau  
 - 🌱 I’m currently learning  advanced SQL,Python 
 - 💞️ I’m looking to collaborate on data science projects, analytics dashboards, and automation tools  
